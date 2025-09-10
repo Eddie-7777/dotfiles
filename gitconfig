@@ -1,0 +1,11 @@
+[user]
+    name = Yididya Mekonnen
+    email = yididya.mekonnen1@gmail.com
+
+[core]
+    editor = vim
+[color]
+    ui = auto
+[init]
+    defaultBranch = main
+
